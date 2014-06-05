@@ -1,0 +1,10 @@
+# Site settings
+title: Ben DiFrancesco
+email: ben.difrancesco@gmail.com
+description: "Thoughts on Software Development & Technology"
+baseurl: ""
+url: "http://apbendi.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
