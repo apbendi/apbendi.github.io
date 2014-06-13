@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Husband and Father.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Software Engineer and Technologist.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Located in Philadelphia, PA.
+
+Graduated Georgia Tech, AE '09.
+
+Formerly at Boeing. Now wearing many hats for a small company that does work I care about.
+
+I write here about software development and technology with a bit of business and strategy mixed in.
