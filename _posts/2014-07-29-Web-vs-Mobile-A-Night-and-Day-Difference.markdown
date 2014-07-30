@@ -26,7 +26,7 @@ NOW is the time to start treating JavaScript like browser bytecode. Languages li
 
 The future of web development is not a better markup language or another testing framework or a package manager you install with a package manager<sup>5</sup> or a dynamic stylesheet language. And it's definitely not yet another MVC JavaScript framework. These tools pale in comparison to the ever-improving counterparts on mobile, and developers will rightly shun the former for the latter.
 
-If the web development has a future it has to be this: sane, modern languages compiling down to web-stuff underneath.
+If web development has a future it has to be this: sane, modern languages compiling down to web-stuff underneath.
 
 ---------
 <small>
